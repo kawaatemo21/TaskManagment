@@ -1,0 +1,7 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  background-color: rgba(149, 103, 70, 0.201);
+}
+.sidebar {
+}
